@@ -4,7 +4,7 @@ When searching for my final project, I went through various thoughts and ideas a
 
 NOTE: I coudn't figure out how to import pictures so I will attach a Google Document below with all the pictures that go with my process as well as a video demonstration of my project. Sorry for the inconvenience. 
 
-# Pictures: https://docs.google.com/document/d/1qKEDF9ZuDFlQSLDbDYGe858mbQLfXqYmavemyVCvjKY/edit?usp=sharing
+Pictures: https://docs.google.com/document/d/1qKEDF9ZuDFlQSLDbDYGe858mbQLfXqYmavemyVCvjKY/edit?usp=sharing
 Video: 
 
 
