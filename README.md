@@ -38,6 +38,6 @@ When searching for my final project, I went through various thoughts and ideas a
 - File
 
 
-3. Now it was ready for me to install the electronic section to the project and I needed to install all the parts to finish up the box. This means I attached the buttons, LEDs, and the motor. I couldn’t get the motor to fit properly so I had to make an attachment that went inside the box so that I could have it in the right position. After putting everything together using wooden screws, my box was complete.
+3. Now it was ready for me to install the electronic section to the project. This means I attached the buttons, LEDs, and the motor. I couldn’t get the motor to fit properly so I had to make an attachment that went inside the box so that I could have it in the right position. After putting everything together using wooden screws, my box was complete.
 
 
