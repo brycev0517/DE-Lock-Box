@@ -43,4 +43,5 @@ NOTE: I coudn't figure out how to import pictures so I will attach a Google Docu
 
 3. Now it was ready for me to install the electronic section to the project. This means I attached the buttons, LEDs, and the motor. I couldn’t get the motor to fit properly so I had to make an attachment that went inside the box so that I could have it in the right position. After putting everything together using wooden screws, my box was complete.
 
-
+# Step 4: Testing
+1. This was the final step of my project. At first when my box was all done and I added all the components, it didn’t work. I noticed it was something wrong with the motor because everything else worked except the motor so I tried a few more tests and the motor worked spontaneously. I don’t know if it just needed a break but after doing a couple more tests it was working like normal. It was stressful when it didn't work because I was running out of time to finish my project but in the end I am so happy that everything went the way it did during this project because I learned so much while doing it. Thank you for following along my journey of my Digital Electronics Lock Box!
