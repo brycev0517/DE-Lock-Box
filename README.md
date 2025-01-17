@@ -21,6 +21,7 @@ When searching for my final project, I went through various thoughts and ideas a
 - Tape Measurer
 - Wood Plank
 
+
 2. The next step in the construction of my box was cutting and assembly. Using the lines I drew the other day, I cut the pieces out using both a hand saw and a jigsaw. They helped me cut out the pieces accurately and efficiently. Next, I started attaching the walls to eachother. I used finishing nails to connect the walls but I didn’t want that to be the only thing holding it together so I also used wood glue. This is the method I did for the walls and the bottom. Finally, I added the door by using 2 inch hinges from Home Depot. When testing the door, it was catching when opening and closing so I got a file and sanded down the wood on the side and bottom of the door so that it would close perfectly. In total, I used:
 
 - Hand Saw
@@ -35,6 +36,7 @@ When searching for my final project, I went through various thoughts and ideas a
 - T Square
 - Awl
 - File
+
 
 3. Now it was ready for me to install the electronic section to the project and I needed to install all the parts to finish up the box. This means I attached the buttons, LEDs, and the motor. I couldn’t get the motor to fit properly so I had to make an attachment that went inside the box so that I could have it in the right position. After putting everything together using wooden screws, my box was complete.
 
