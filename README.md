@@ -1,4 +1,4 @@
-# **DE Final Project: Lock Box**
+# **Digital Electronics Final Project: Lock Box**
 <img width="600" height="800" alt="unnamed" src="https://github.com/user-attachments/assets/de2798be-2a60-476e-8b7d-831e714b3138" />
 
 # Introduction
